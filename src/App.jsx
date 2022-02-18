@@ -1,4 +1,5 @@
 import { Code } from "./Components/Code";
+import { ToggleColorButton } from "./Components/ToggleColorButton";
 import { data } from "./data";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <header className="bg-red-500">
         <p>Hello Vite + React!</p>
         <p>sup</p>
+        <ToggleColorButton />
       </header>
       <div className="md:max-w-7xl m-auto mt-12">
         <main className="lg:columns-3 md:columns-2 align-baseline masonry before:box-inherit after:box-inherit">
