@@ -1,0 +1,991 @@
+[
+  {
+    "tld": ".ac",
+    "entity": "Ascension Island (United Kingdom)"
+  },
+  {
+    "tld": ".ad",
+    "entity": "Andorra"
+  },
+  {
+    "tld": ".ae",
+    "entity": "United Arab Emirates"
+  },
+  {
+    "tld": ".af",
+    "entity": "Afghanistan"
+  },
+  {
+    "tld": ".ag",
+    "entity": "Antigua and Barbuda"
+  },
+  {
+    "tld": ".ai",
+    "entity": "Anguilla (United Kingdom)"
+  },
+  {
+    "tld": ".al",
+    "entity": "Albania"
+  },
+  {
+    "tld": ".am",
+    "entity": "Armenia"
+  },
+  {
+    "tld": ".ao",
+    "entity": "Angola"
+  },
+  {
+    "tld": ".aq",
+    "entity": "Antarctica"
+  },
+  {
+    "tld": ".ar",
+    "entity": "Argentina"
+  },
+  {
+    "tld": ".as",
+    "entity": "American Samoa (United States)"
+  },
+  {
+    "tld": ".at",
+    "entity": "Austria"
+  },
+  {
+    "tld": ".au",
+    "entity": "Australia"
+  },
+  {
+    "tld": ".aw",
+    "entity": "Aruba (Kingdom of the Netherlands)"
+  },
+  {
+    "tld": ".ax",
+    "entity": "Åland (Finland)"
+  },
+  {
+    "tld": ".az",
+    "entity": "Azerbaijan"
+  },
+  {
+    "tld": ".ba",
+    "entity": "Bosnia and Herzegovina"
+  },
+  {
+    "tld": ".bb",
+    "entity": "Barbados"
+  },
+  {
+    "tld": ".bd",
+    "entity": "Bangladesh"
+  },
+  {
+    "tld": ".be",
+    "entity": "Belgium"
+  },
+  {
+    "tld": ".bf",
+    "entity": "Burkina Faso"
+  },
+  {
+    "tld": ".bg",
+    "entity": "Bulgaria"
+  },
+  {
+    "tld": ".bh",
+    "entity": "Bahrain",
+
+    "IPv6": ""
+  },
+  {
+    "tld": ".bi",
+    "entity": "Burundi"
+  },
+  {
+    "tld": ".bj",
+    "entity": "Benin"
+  },
+  {
+    "tld": ".bm",
+    "entity": "Bermuda (United Kingdom)"
+  },
+  {
+    "tld": ".bn",
+    "entity": "Brunei"
+  },
+  {
+    "tld": ".bo",
+    "entity": "Bolivia"
+  },
+  {
+    "tld": ".bq",
+    "entity": "Caribbean Netherlands ( Bonaire,  Saba, and  Sint Eustatius)"
+  },
+  {
+    "tld": ".br",
+    "entity": "Brazil"
+  },
+  {
+    "tld": ".bs"
+  },
+  {
+    "tld": ".bt",
+    "entity": "Bhutan"
+  },
+  {
+    "tld": ".bw",
+    "entity": "Botswana"
+  },
+  {
+    "tld": ".by",
+    "entity": "Belarus"
+  },
+  {
+    "tld": ".bz",
+    "entity": "Belize"
+  },
+  {
+    "tld": ".ca",
+    "entity": "Canada"
+  },
+  {
+    "tld": ".cc",
+    "entity": "Cocos (Keeling) Islands"
+  },
+  {
+    "tld": ".cd",
+    "entity": "Democratic Republic of the Congo"
+  },
+  {
+    "tld": ".cf",
+    "entity": "Central African Republic"
+  },
+  {
+    "tld": ".cg",
+    "entity": "Republic of the Congo"
+  },
+  {
+    "tld": ".ch",
+    "entity": "Switzerland"
+  },
+  {
+    "tld": ".ci",
+    "entity": "Ivory Coast"
+  },
+  {
+    "tld": ".ck",
+    "entity": "Cook Islands"
+  },
+  {
+    "tld": ".cl",
+    "entity": "Chile"
+  },
+  {
+    "tld": ".cm",
+    "entity": "Cameroon"
+  },
+  {
+    "tld": ".cn",
+    "entity": "People's Republic of China"
+  },
+  {
+    "tld": ".co",
+    "entity": "Colombia"
+  },
+  {
+    "tld": ".cr",
+    "entity": "Costa Rica"
+  },
+  {
+    "tld": ".cu",
+    "entity": "Cuba"
+  },
+  {
+    "tld": ".cv",
+    "entity": "Cape Verde"
+  },
+  {
+    "tld": ".cw",
+    "entity": "Curaçao (Kingdom of the Netherlands)"
+  },
+  {
+    "tld": ".cx",
+    "entity": "Christmas Island"
+  },
+  {
+    "tld": ".cy",
+    "entity": "Cyprus"
+  },
+  {
+    "tld": ".cz",
+    "entity": "Czech Republic"
+  },
+  {
+    "tld": ".de",
+    "entity": "Germany"
+  },
+  {
+    "tld": ".dj",
+    "entity": "Djibouti"
+  },
+  {
+    "tld": ".dk",
+    "entity": "Denmark"
+  },
+  {
+    "tld": ".dm",
+    "entity": "Dominica"
+  },
+  {
+    "tld": ".do",
+    "entity": "Dominican Republic"
+  },
+  {
+    "tld": ".dz",
+    "entity": "Algeria"
+  },
+  {
+    "tld": ".ec",
+    "entity": "Ecuador"
+  },
+  {
+    "tld": ".ee",
+    "entity": "Estonia"
+  },
+  {
+    "tld": ".eg",
+    "entity": "Egypt"
+  },
+  {
+    "tld": ".eh",
+    "entity": "Western Sahara"
+  },
+  {
+    "tld": ".er",
+    "entity": "Eritrea"
+  },
+  {
+    "tld": ".es",
+    "entity": "Spain"
+  },
+  {
+    "tld": ".et",
+    "entity": "Ethiopia"
+  },
+  {
+    "tld": ".eu",
+    "entity": "European Union"
+  },
+  {
+    "tld": ".fi",
+    "entity": "Finland"
+  },
+  {
+    "tld": ".fj",
+    "entity": "Fiji"
+  },
+  {
+    "tld": ".fk",
+    "entity": "Falkland Islands (United Kingdom)"
+  },
+  {
+    "tld": ".fm",
+    "entity": "Federated States of Micronesia"
+  },
+  {
+    "tld": ".fo",
+    "entity": "Faroe Islands (Kingdom of Denmark)"
+  },
+  {
+    "tld": ".fr",
+    "entity": "France"
+  },
+  {
+    "tld": ".ga",
+    "entity": "Gabon"
+  },
+  {
+    "tld": ".gd",
+    "entity": "Grenada"
+  },
+  {
+    "tld": ".ge",
+    "entity": "Georgia"
+  },
+  {
+    "tld": ".gf",
+    "entity": "French Guiana (France)"
+  },
+  {
+    "tld": ".gg",
+    "entity": "Guernsey"
+  },
+  {
+    "tld": ".gh",
+    "entity": "Ghana"
+  },
+  {
+    "tld": ".gi",
+    "entity": "Gibraltar (United Kingdom)"
+  },
+  {
+    "tld": ".gl",
+    "entity": "Greenland (Kingdom of Denmark)"
+  },
+  {
+    "tld": ".gm",
+    "entity": "The Gambia"
+  },
+  {
+    "tld": ".gn",
+    "entity": "Guinea"
+  },
+  {
+    "tld": ".gp",
+    "entity": "Guadeloupe (France)"
+  },
+  {
+    "tld": ".gq",
+    "entity": "Equatorial Guinea"
+  },
+  {
+    "tld": ".gr",
+    "entity": "Greece"
+  },
+  {
+    "tld": ".gs",
+    "entity": "South Georgia and the South Sandwich Islands (United Kingdom)"
+  },
+  {
+    "tld": ".gt",
+    "entity": "Guatemala"
+  },
+  {
+    "tld": ".gu",
+    "entity": "Guam (United States)"
+  },
+  {
+    "tld": ".gw",
+    "entity": "Guinea-Bissau"
+  },
+  {
+    "tld": ".gy",
+    "entity": "Guyana"
+  },
+  {
+    "tld": ".hk",
+    "entity": "Hong Kong"
+  },
+  {
+    "tld": ".hm",
+    "entity": "Heard Island and McDonald Islands"
+  },
+  {
+    "tld": ".hn",
+    "entity": "Honduras"
+  },
+  {
+    "tld": ".hr",
+    "entity": "Croatia"
+  },
+  {
+    "tld": ".ht",
+    "entity": "Haiti"
+  },
+  {
+    "tld": ".hu",
+    "entity": "Hungary"
+  },
+  {
+    "tld": ".id",
+    "entity": "Indonesia"
+  },
+  {
+    "tld": ".ie",
+    "entity": "Ireland"
+  },
+  {
+    "tld": ".il",
+    "entity": "Israel"
+  },
+  {
+    "tld": ".im",
+    "entity": "Isle of Man"
+  },
+  {
+    "tld": ".in",
+    "entity": "India"
+  },
+  {
+    "tld": ".io",
+    "entity": "British Indian Ocean Territory (United Kingdom)"
+  },
+  {
+    "tld": ".iq",
+    "entity": "Iraq"
+  },
+  {
+    "tld": ".ir",
+    "entity": "Iran"
+  },
+  {
+    "tld": ".is",
+    "entity": "Iceland"
+  },
+  {
+    "tld": ".it",
+    "entity": "Italy"
+  },
+  {
+    "tld": ".je",
+    "entity": "Jersey"
+  },
+  {
+    "tld": ".jm",
+    "entity": "Jamaica"
+  },
+  {
+    "tld": ".jo",
+    "entity": "Jordan"
+  },
+  {
+    "tld": ".jp",
+    "entity": "Japan"
+  },
+  {
+    "tld": ".ke",
+    "entity": "Kenya"
+  },
+  {
+    "tld": ".kg",
+    "entity": "Kyrgyzstan"
+  },
+  {
+    "tld": ".kh",
+    "entity": "Cambodia"
+  },
+  {
+    "tld": ".ki",
+    "entity": "Kiribati"
+  },
+  {
+    "tld": ".km",
+    "entity": "Comoros"
+  },
+  {
+    "tld": ".kn",
+    "entity": "Saint Kitts and Nevis"
+  },
+  {
+    "tld": ".kp",
+    "entity": "North Korea"
+  },
+  {
+    "tld": ".kr",
+    "entity": "South Korea"
+  },
+  {
+    "tld": ".kw",
+    "entity": "Kuwait"
+  },
+  {
+    "tld": ".ky",
+    "entity": "Cayman Islands (United Kingdom)"
+  },
+  {
+    "tld": ".kz",
+    "entity": "Kazakhstan"
+  },
+  {
+    "tld": ".la",
+    "entity": "Laos"
+  },
+  {
+    "tld": ".lb",
+    "entity": "Lebanon"
+  },
+  {
+    "tld": ".lc",
+    "entity": "Saint Lucia"
+  },
+  {
+    "tld": ".li",
+    "entity": "Liechtenstein"
+  },
+  {
+    "tld": ".lk",
+    "entity": "Sri Lanka"
+  },
+  {
+    "tld": ".lr",
+    "entity": "Liberia"
+  },
+  {
+    "tld": ".ls",
+    "entity": "Lesotho"
+  },
+  {
+    "tld": ".lt",
+    "entity": "Lithuania"
+  },
+  {
+    "tld": ".lu",
+    "entity": "Luxembourg"
+  },
+  {
+    "tld": ".lv",
+    "entity": "Latvia"
+  },
+  {
+    "tld": ".ly",
+    "entity": "Libya"
+  },
+  {
+    "tld": ".ma",
+    "entity": "Morocco"
+  },
+  {
+    "tld": ".mc",
+    "entity": "Monaco"
+  },
+  {
+    "tld": ".md",
+    "entity": "Moldova"
+  },
+  {
+    "tld": ".me",
+    "entity": "Montenegro"
+  },
+  {
+    "tld": ".mg",
+    "entity": "Madagascar"
+  },
+  {
+    "tld": ".mh",
+    "entity": "Marshall Islands"
+  },
+  {
+    "tld": ".mk",
+    "entity": "North Macedonia"
+  },
+  {
+    "tld": ".ml",
+    "entity": "Mali"
+  },
+  {
+    "tld": ".mm",
+    "entity": "Myanmar"
+  },
+  {
+    "tld": ".mn",
+    "entity": "Mongolia"
+  },
+  {
+    "tld": ".mo",
+    "entity": "Macau"
+  },
+  {
+    "tld": ".mp",
+    "entity": "Northern Mariana Islands (United States)"
+  },
+  {
+    "tld": ".mq",
+    "entity": "Martinique (France)"
+  },
+  {
+    "tld": ".mr",
+    "entity": "Mauritania"
+  },
+  {
+    "tld": ".ms",
+    "entity": "Montserrat (United Kingdom)"
+  },
+  {
+    "tld": ".mt",
+    "entity": "Malta"
+  },
+  {
+    "tld": ".mu",
+    "entity": "Mauritius"
+  },
+  {
+    "tld": ".mv",
+    "entity": "Maldives"
+  },
+  {
+    "tld": ".mw",
+    "entity": "Malawi"
+  },
+  {
+    "tld": ".mx",
+    "entity": "Mexico"
+  },
+  {
+    "tld": ".my",
+    "entity": "Malaysia"
+  },
+  {
+    "tld": ".mz",
+    "entity": "Mozambique"
+  },
+  {
+    "tld": ".na",
+    "entity": "Namibia"
+  },
+  {
+    "tld": ".nc",
+    "entity": "New Caledonia (France)"
+  },
+  {
+    "tld": ".ne",
+    "entity": "Niger"
+  },
+  {
+    "tld": ".nf",
+    "entity": "Norfolk Island"
+  },
+  {
+    "tld": ".ng",
+    "entity": "Nigeria"
+  },
+  {
+    "tld": ".ni",
+    "entity": "Nicaragua"
+  },
+  {
+    "tld": ".nl",
+    "entity": "Netherlands"
+  },
+  {
+    "tld": ".no",
+    "entity": "Norway"
+  },
+  {
+    "tld": ".np",
+    "entity": "Nepal"
+  },
+  {
+    "tld": ".nr",
+    "entity": "Nauru"
+  },
+  {
+    "tld": ".nu",
+    "entity": "Niue"
+  },
+  {
+    "tld": ".nz",
+    "entity": "New Zealand"
+  },
+  {
+    "tld": ".om",
+    "entity": "Oman"
+  },
+  {
+    "tld": ".pa",
+    "entity": "Panama"
+  },
+  {
+    "tld": ".pe",
+    "entity": "Peru"
+  },
+  {
+    "tld": ".pf",
+    "entity": "French Polynesia (France)"
+  },
+  {
+    "tld": ".pg",
+    "entity": "Papua New Guinea"
+  },
+  {
+    "tld": ".ph",
+    "entity": "Philippines"
+  },
+  {
+    "tld": ".pk",
+    "entity": "Pakistan"
+  },
+  {
+    "tld": ".pl",
+    "entity": "Poland"
+  },
+  {
+    "tld": ".pm",
+    "entity": "Saint-Pierre and Miquelon (France)"
+  },
+  {
+    "tld": ".pn",
+    "entity": "Pitcairn Islands (United Kingdom)"
+  },
+  {
+    "tld": ".pr",
+    "entity": "Puerto Rico (United States)"
+  },
+  {
+    "tld": ".ps",
+    "entity": "Palestine[51]"
+  },
+  {
+    "tld": ".pt",
+    "entity": "Portugal"
+  },
+  {
+    "tld": ".pw",
+    "entity": "Palau"
+  },
+  {
+    "tld": ".py",
+    "entity": "Paraguay"
+  },
+  {
+    "tld": ".qa",
+    "entity": "Qatar"
+  },
+  {
+    "tld": ".re",
+    "entity": "Réunion (France)"
+  },
+  {
+    "tld": ".ro",
+    "entity": "Romania"
+  },
+  {
+    "tld": ".rs",
+    "entity": "Serbia"
+  },
+  {
+    "tld": ".ru",
+    "entity": "Russia"
+  },
+  {
+    "tld": ".rw",
+    "entity": "Rwanda"
+  },
+  {
+    "tld": ".sa",
+    "entity": "Saudi Arabia"
+  },
+  {
+    "tld": ".sb",
+    "entity": "Solomon Islands"
+  },
+  {
+    "tld": ".sc",
+    "entity": "Seychelles"
+  },
+  {
+    "tld": ".sd",
+    "entity": "Sudan"
+  },
+  {
+    "tld": ".se",
+    "entity": "Sweden"
+  },
+  {
+    "tld": ".sg",
+    "entity": "Singapore"
+  },
+  {
+    "tld": ".sh",
+    "entity": "Saint Helena, Ascension and Tristan da Cunha (United Kingdom)"
+  },
+  {
+    "tld": ".si",
+    "entity": "Slovenia"
+  },
+  {
+    "tld": ".sk",
+    "entity": "Slovakia"
+  },
+  {
+    "tld": ".sl",
+    "entity": "Sierra Leone"
+  },
+  {
+    "tld": ".sm",
+    "entity": "San Marino"
+  },
+  {
+    "tld": ".sn",
+    "entity": "Senegal"
+  },
+  {
+    "tld": ".so",
+    "entity": "Somalia"
+  },
+  {
+    "tld": ".sr",
+    "entity": "Suriname"
+  },
+  {
+    "tld": ".ss",
+    "entity": "South Sudan"
+  },
+  {
+    "tld": ".st",
+    "entity": "São Tomé and Príncipe"
+  },
+  {
+    "tld": ".su",
+    "entity": "Soviet Union"
+  },
+  {
+    "tld": ".sv",
+    "entity": "El Salvador"
+  },
+  {
+    "tld": ".sx",
+    "entity": "Sint Maarten (Kingdom of the Netherlands)"
+  },
+  {
+    "tld": ".sy",
+    "entity": "Syria"
+  },
+  {
+    "tld": ".sz",
+    "entity": "Eswatini"
+  },
+  {
+    "tld": ".tc",
+    "entity": "Turks and Caicos Islands (United Kingdom)"
+  },
+  {
+    "tld": ".td",
+    "entity": "Chad"
+  },
+  {
+    "tld": ".tf",
+    "entity": "French Southern and Antarctic Lands"
+  },
+  {
+    "tld": ".tg",
+    "entity": "Togo"
+  },
+  {
+    "tld": ".th",
+    "entity": "Thailand"
+  },
+  {
+    "tld": ".tj",
+    "entity": "Tajikistan"
+  },
+  {
+    "tld": ".tk",
+    "entity": "Tokelau"
+  },
+  {
+    "tld": ".tl",
+    "entity": "East Timor"
+  },
+  {
+    "tld": ".tm",
+    "entity": "Turkmenistan"
+  },
+  {
+    "tld": ".tn",
+    "entity": "Tunisia"
+  },
+  {
+    "tld": ".to",
+    "entity": "Tonga"
+  },
+  {
+    "tld": ".tr",
+    "entity": "Turkey"
+  },
+  {
+    "tld": ".tt",
+    "entity": "Trinidad and Tobago"
+  },
+  {
+    "tld": ".tv",
+    "entity": "Tuvalu"
+  },
+  {
+    "tld": ".tw",
+    "entity": "Taiwan"
+  },
+  {
+    "tld": ".tz",
+    "entity": "Tanzania"
+  },
+  {
+    "tld": ".ua",
+    "entity": "Ukraine"
+  },
+  {
+    "tld": ".ug",
+    "entity": "Uganda"
+  },
+  {
+    "tld": ".uk",
+    "entity": "United Kingdom"
+  },
+  {
+    "tld": ".us",
+    "entity": "United States of America"
+  },
+  {
+    "tld": ".uy",
+    "entity": "Uruguay"
+  },
+  {
+    "tld": ".uz",
+    "entity": "Uzbekistan"
+  },
+  {
+    "tld": ".va",
+    "entity": "Vatican City"
+  },
+  {
+    "tld": ".vc",
+    "entity": "Saint Vincent and the Grenadines"
+  },
+  {
+    "tld": ".ve",
+    "entity": "Venezuela"
+  },
+  {
+    "tld": ".vg",
+    "entity": "British Virgin Islands (United Kingdom)"
+  },
+  {
+    "tld": ".vi",
+    "entity": "United States Virgin Islands (United States)"
+  },
+  {
+    "tld": ".vn",
+    "entity": "Vietnam"
+  },
+  {
+    "tld": ".vu",
+    "entity": "Vanuatu"
+  },
+  {
+    "tld": ".wf",
+    "entity": "Wallis and Futuna"
+  },
+  {
+    "tld": ".ws",
+    "entity": "Samoa"
+  },
+  {
+    "tld": ".ye",
+    "entity": "Yemen"
+  },
+  {
+    "tld": ".yt",
+    "entity": "Mayotte"
+  },
+  {
+    "tld": ".za",
+    "entity": "South Africa"
+  },
+  {
+    "tld": ".zm",
+    "entity": "Zambia"
+  },
+  {
+    "tld": ".zw",
+    "entity": "Zimbabwe"
+  }
+]
