@@ -5,11 +5,16 @@ import { data } from "./data";
 function App() {
   return (
     <>
-      {" "}
-      <header className="bg-red-500">
-        <p>Hello Vite + React!</p>
-        <p>sup</p>
-        <ToggleColorButton />
+      <header className=" pt-4 pb-8">
+        <div className="flex justify-end pr-4">
+          <ToggleColorButton />
+        </div>
+        <h1 className="dark:text-white text-gray-900 text-3xl font-bold text-center">
+          Know that data you need for all projects?
+        </h1>
+        <h2 className="dark:text-white text-gray-900 text-3xl font-bold text-center">
+          Its all here
+        </h2>
       </header>
       <div className="md:max-w-7xl m-auto mt-12">
         <main className="lg:columns-3 md:columns-2 align-baseline masonry before:box-inherit after:box-inherit">

@@ -1,42 +1,9 @@
 import classNames from "classnames";
-import { useState } from "react";
-
-const makeDark = (setDarkTheme, bodyClasses) => {
-  bodyClasses.add("dark");
-  localStorage.setItem("color-theme", "dark");
-  setDarkTheme(true);
-  bodyClasses.add("dark");
-  localStorage.setItem("color-theme", "dark");
-  setDarkTheme(true);
-};
-const makeLight = (setDarkTheme, bodyClasses) => {
-  bodyClasses.remove("dark");
-  localStorage.setItem("color-theme", "light");
-  setDarkTheme(false);
-};
+import { useTheme } from "./ThemeContext";
 
 export const ToggleColorButton = () => {
-  const [darkTheme, setDarkTheme] = useState(
-    localStorage.getItem("color-theme") === "dark" ||
-      (!("color-theme" in localStorage) &&
-        window.matchMedia("(prefers-color-scheme: dark)").matches)
-  );
-  const toggleColorScheme = () => {
-    const bodyClasses = document.documentElement.classList;
-    if (localStorage.getItem("color-theme")) {
-      if (localStorage.getItem("color-theme") === "light") {
-        makeDark(setDarkTheme, bodyClasses);
-      } else {
-        makeLight(setDarkTheme, bodyClasses);
-      }
-    } else {
-      if (bodyClasses.contains("dark")) {
-        makeLight(setDarkTheme, bodyClasses);
-      } else {
-        makeDark(setDarkTheme, bodyClasses);
-      }
-    }
-  };
+  const { darkTheme, toggleColorScheme } = useTheme();
+
   return (
     <button
       id="theme-toggle"
