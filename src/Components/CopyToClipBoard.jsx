@@ -15,7 +15,10 @@ export const CopyToClipBoard = ({ code }) => {
 
   return (
     <button
-      className={classNames("pointer text-white", active && "text-green-200")}
+      className={classNames(
+        "absolute right-2 top-2 pointer text-white",
+        active && "text-green-200"
+      )}
       onClick={copyText}
     >
       <Clipboard />

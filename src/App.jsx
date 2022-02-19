@@ -21,9 +21,9 @@ function App() {
       </header>
       <div className="md:max-w-7xl m-auto mt-12">
         <main className="lg:columns-3 md:columns-2 align-baseline masonry before:box-inherit after:box-inherit">
-          {data.map(({ name, description, json }) => (
+          {data.map(({ name, description, json, index }) => (
             <div
-              key={name}
+              key={index}
               className="mb-8 break-inside  bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700"
             >
               <div className="p-5">

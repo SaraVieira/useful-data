@@ -8,6 +8,7 @@ import languages from "./languages.json";
 import usStatesObj from "./usStatesObj.json";
 import usStatesArray from "./usStatesArray.json";
 import tld from "./tld.json";
+import currenciesFull from "./currencies-full.json";
 
 export const data = [
   {
@@ -61,4 +62,13 @@ export const data = [
       "A an array all TLD's associated with countries and territories",
     json: tld,
   },
-];
+  {
+    name: "Currencies Full",
+    description:
+      "All the world's currencies, their origin territories and their Symbol",
+    json: currenciesFull,
+  },
+].map((d, i) => ({
+  index: `${d.name}-${i}`,
+  ...d,
+}));
