@@ -10,6 +10,12 @@ import usStatesArray from "./json/usStatesArray.json";
 import tld from "./json/tld.json";
 import currenciesFull from "./json/currencies-full.json";
 import { CATEGORIES } from "./categories";
+import mexicoStates from "./json/mexico-states.json";
+import germanyStates from "./json/german-states.json";
+import ghEmojis from "./json/githubEmojis.json";
+import nobel from "./json/nobel-prize.json";
+import rick from "./json/rick-morty.json";
+import simpsons from "./json/simpsons.json";
 
 export const data = [
   {
@@ -30,6 +36,18 @@ export const data = [
     description:
       "A JSON array that maps ISO2 country codes to country phone codes",
     json: phone,
+    category: CATEGORIES[4],
+  },
+  {
+    name: "GitHub Emojis",
+    description: "An object with emoji text and their links on GitHub",
+    json: ghEmojis,
+    category: CATEGORIES[4],
+  },
+  {
+    name: "Nobel Prize Winner",
+    description: "An array with all the nobel prize winners",
+    json: nobel,
     category: CATEGORIES[4],
   },
   {
@@ -78,6 +96,30 @@ export const data = [
       "All the world's currencies, their origin territories and their Symbol",
     json: currenciesFull,
     category: CATEGORIES[2],
+  },
+  {
+    name: "Mexican States",
+    description: "An array containing all the states in mexico and their code",
+    json: mexicoStates,
+    category: CATEGORIES[0],
+  },
+  {
+    name: "German States",
+    description: "An array containing all the states in germany and their code",
+    json: germanyStates,
+    category: CATEGORIES[0],
+  },
+  {
+    name: "Rick and Morty Characters",
+    description: "List of all rick and morty characters",
+    json: rick,
+    category: CATEGORIES[5],
+  },
+  {
+    name: "Simpsons Episodes",
+    description: "List of all simpsons episodes, movies and shorts",
+    json: simpsons,
+    category: CATEGORIES[5],
   },
 ].map((d, i) => ({
   index: `${d.name}-${i}`,

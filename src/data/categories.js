@@ -4,6 +4,7 @@ export const categoryOptions = [
   { label: "Money", name: "money" },
   { label: "Internet", name: "internet" },
   { label: "Miscellaneous", name: "misc" },
+  { label: "TV", name: "tv" },
 ];
 
 export const CATEGORIES = categoryOptions.map((category) => category.name);
