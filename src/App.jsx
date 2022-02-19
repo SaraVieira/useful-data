@@ -18,7 +18,7 @@ function App() {
   return (
     <>
       <Header />
-      <div className="md:max-w-7xl m-auto mt-12">
+      <div className="max-w-[90%] xl:max-w-7xl m-auto mt-12">
         <Filters category={category} setCategory={setCategory} />
         <main className="lg:columns-3 md:columns-2 align-baseline masonry before:box-inherit after:box-inherit">
           {getData().map((d) => (
