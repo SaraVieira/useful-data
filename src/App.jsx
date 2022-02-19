@@ -9,11 +9,14 @@ function App() {
         <div className="flex justify-end pr-4">
           <ToggleColorButton />
         </div>
-        <h1 className="dark:text-white text-gray-900 text-3xl font-bold text-center">
-          Know that data you need for all projects?
-        </h1>
-        <h2 className="dark:text-white text-gray-900 text-3xl font-bold text-center">
-          Its all here
+        <img
+          src="/logo.png"
+          className="w-12 m-auto block mb-2"
+          alt="JSON Data"
+        />
+        <h1 className="sr-only">JSON Data</h1>
+        <h2 className="dark:text-gray-400 text-gray-600 text-2xl italic font-semibold text-center mt-4">
+          Because JSON is fucking great
         </h2>
       </header>
       <div className="md:max-w-7xl m-auto mt-12">
